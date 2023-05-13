@@ -28,7 +28,7 @@ const PlagiarismChecker = () => {
               <div class="rounded-full h-2 md:h-4 w-4 bg-yellow-400 flex mr-3"></div>
               <div class="rounded-full h-2 md:h-4 w-4 bg-green-400 flex mr-3"></div>
               <div class="flex-auto px-2 py-1 ml-5 mr-1 rounded-md bg-white text-xs">
-                https://www.plagiarisminator.vercell.app
+                https://www.plagiarisminator.vercel.app
               </div>
             </div>
             <div class="px-2 py-4 bg-white min-h-[85vh] overflow-y-scroll">
